@@ -1,0 +1,8 @@
+---
+name: back to top
+description: Click and go back to top
+category: Tests
+faIconClass: fa-caret-o-up
+props:
+- name: test
+  type: number
