@@ -4,5 +4,5 @@ description: Click and go back to top
 category: Tests
 faIconClass: fa-caret-o-up
 props:
-- name: test
+- name: prop1
   type: number
